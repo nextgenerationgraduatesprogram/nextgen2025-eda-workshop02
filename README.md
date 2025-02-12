@@ -1,1 +1,1 @@
-# NextGen2025 EDA Workshop 2
+# NextGen2025 EDA Workshop: Advanced
